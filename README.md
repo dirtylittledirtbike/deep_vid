@@ -2,4 +2,4 @@
 
 Deep dream for video 
 
-![demo](/ezgif.com-gif-maker.gif)
+![demo](demo/ezgif.com-gif-maker.gif)
